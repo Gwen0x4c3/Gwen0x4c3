@@ -1,6 +1,7 @@
 ## About me
 - ✍ I'm currently studying in Beijing Forestry University
 - 👜 My dream at current stage is to work in ByteDance
+- 😵 Learning golang...
 - 🏋️‍♂️ Gym 24/7
 
 <p>
