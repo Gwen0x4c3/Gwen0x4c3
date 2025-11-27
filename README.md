@@ -13,6 +13,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src=""/>
-
 ![20ddeb07-31e7-4db4-90ae-4fb5926c53dc](https://github.com/user-attachments/assets/b7291812-71a7-425c-9b90-8e21b6d7b338)
