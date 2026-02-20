@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               5 hrs 5 mins          ███████████████████▒░░░░░   77.78 %
-Thrift           41 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Markdown         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-JSON             18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-GitIgnore file   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
