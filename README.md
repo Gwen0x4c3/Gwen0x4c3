@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         1 hr 17 mins          █████████████▓░░░░░░░░░░░   54.60 %
-Markdown      45 mins               ████████░░░░░░░░░░░░░░░░░   31.66 %
-Go            14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Other         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Image (png)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
